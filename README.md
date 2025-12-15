@@ -31,31 +31,31 @@ I'm a passionate developer focused on building efficient and scalable applicatio
 
 ## 📌 Featured Projects
 
-### [Libft](https://github.com/yourusername/libft)
+### [Libft](https://github.com/marwan-km/libft)
 Custom C library implementation of standard functions. A foundational project that demonstrates deep understanding of memory management and low-level programming.
 - **Tech:** C
 - **Highlights:** Memory-safe implementations, comprehensive testing
 
-### [Get Next Line](https://github.com/yourusername/get_next_line)
+### [Get Next Line](https://github.com/marwan-km/get_next_line)
 Efficient file reading function that handles multiple file descriptors using static variables and optimized buffer management.
 - **Tech:** C
 - **Highlights:** Static variables, memory optimization
 
-### [ft_printf](https://github.com/yourusername/ft_printf)
+### [ft_printf](https://github.com/marwan-km/ft_printf)
 Recreation of the printf function with support for multiple format specifiers using variadic functions.
 - **Tech:** C
 - **Highlights:** Variadic functions, recursive algorithms
 
-### [Jobster App](https://github.com/yourusername/jobster)
+### [Jobster App](https://github.com/marwan-km/jobster)
 Full-stack job management application with user authentication and CRUD operations.
 - **Tech:** MongoDB, Express.js, React, Node.js
 - **Highlights:** JWT authentication, responsive design
 
 ## 📊 GitHub Stats
 
-![Marwane's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Marwane's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwan-km&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-km&layout=compact&theme=radical)
 
 ## 🎯 Currently Working On
 
@@ -75,4 +75,4 @@ Passionate about learning and building useful applications. I believe in writing
 
 ---
 
-⭐️ From [mkiram](https://github.com/yourusername)
+⭐️ From [marwan-km](https://github.com/marwan-km)
