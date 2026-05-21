@@ -10,12 +10,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=marwan-km&icon=5&color=12" alt="Profile Views"/>
-  </a>
-</div>
-
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
   <b>🎓 Software Engineering Cadet @ 1337 (42 Network) | Morocco 🇲🇦</b><br>
@@ -90,12 +84,12 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwan-km&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Marwane's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=marwan-km&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="Marwane's GitHub Streak" width="48%" />
+  <img src="https://img.shields.io/badge/Total_Repositories-24-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Contributions_This_Year-230+-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-km&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=marwan-km&theme=tokyonight&hide_border=true&background=0D1117" alt="Marwane's GitHub Streak" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
